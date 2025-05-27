@@ -1,4 +1,4 @@
-# IBM-Data-Science-Certification-Projects
+# IBM-Data-Science-Certificate-Projects
 Network Latency Prediction for Satellite Networks
 
 # Network Latency Prediction for Satellite Networks
